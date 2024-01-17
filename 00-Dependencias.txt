@@ -3,4 +3,4 @@ pip install pandas
 pip install spyder
 pip install jupyterlab
 
-start project: jupyer lab or spyder
+start project: jupyter lab or spyder
